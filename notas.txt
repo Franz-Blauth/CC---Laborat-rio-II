@@ -1,1 +1,32 @@
-Teste
+Memória ESTÁTICA ==> 	Tipos Primitivos - Int, boolean, String, float, double ....
+
+			Vetores - Int [] Vet   Int [] Vet = New Int[5]
+
+Instanciar ==> Sempre na memória dinâmica
+
+Na memória dinâmica, só fica OBJETO
+
+Um OBJETO (vetor) Independente do tamanho, só vai ter um ponteiro.
+	Apaga a veriável antiga e cria uma nova e passa apontar o vetor para ela.
+
+Tudo que está na Dinâmica o programador pode controlar.
+
+HD - Momória Secundária			
+SSD
+Pen drive....
+
+
+LISTA LINEAR SIMPLESMENTE ENCADEADA
+
+ Dados organizados um após o outro que crescem e decrescem
+
+Lista = Arquivo = Tabela
+
+Cresce e Decresce
+
+Pimeiro Info / prox
+
+Primeiro
+Ultimo
+
+Novo Nó
