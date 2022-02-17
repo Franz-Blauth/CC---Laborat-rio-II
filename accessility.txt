@@ -1,0 +1,4 @@
+self.searchbar.isAccessibilityElement=YES;
+self.searchbar.accessibilityLabel=@"searchbar";
+self.searchbar.accessibilityHint=@"searchbar";
+self.searchbar.accessibilityElementsHidden=NO;
