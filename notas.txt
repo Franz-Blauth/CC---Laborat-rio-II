@@ -24,7 +24,7 @@ Lista = Arquivo = Tabela
 
 Cresce e Decresce
 
-Pimeiro Info / prox
+Pimeiro Info / prox Nó
 
 Primeiro
 Ultimo
